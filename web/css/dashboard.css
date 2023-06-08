@@ -1,0 +1,63 @@
+*{
+    font-family: cera pro, sans-serif;
+}
+html, body{
+    max-width: 800px;
+    max-height: 600px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+#sideNav{
+    background-color: #3A81E0;
+    z-index: 2;
+    box-shadow: 7.5px 0 20px rgba(58, 129, 224, 0.4);
+}
+#sideNav>div{
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1;
+}
+#sideNav>div:nth-of-type(1){
+    background-image: url('../media/favicon.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#sideNav>div:nth-of-type(2)>i{
+    color: white;
+    font-size: 1.75rem;
+}
+#logout{
+    cursor: pointer;
+}
+#main{
+    z-index: 1;
+}
+#heading>div{
+    border: 1px solid black;
+    background-color: white;
+    color: black;
+    transition: 0.2s ease-out;
+    cursor: pointer;
+}
+#heading>div:hover{
+    border: none;
+    background-color: black;
+    color: white;
+}
+#headTable>div{
+    background-color: white;
+    color: #3A81E0;
+    transition: 0.2s ease-out;
+    cursor: pointer;
+}
+#headTable>div:hover{
+    background-color: rgb(228, 228, 228);
+}
+.modal-header{
+    background-color: #3A81E0;
+    color: white;
+}
+tr>td:nth-of-type(2)>i{
+    cursor: pointer;
+    transition: 0.2s ease-out;
+}

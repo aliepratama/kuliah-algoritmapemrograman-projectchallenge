@@ -1,0 +1,66 @@
+*{
+    font-family: cera pro, sans-serif;
+}
+html, body{
+    max-width: 800px;
+    max-height: 600px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.bg-darkk{
+    background-color: black !important;
+}
+a, a:visited{
+    color: white !important;
+    text-decoration: none  !important;
+    cursor: pointer  !important;
+}
+i[theme=light]{
+    color: white;
+}
+#all{
+    margin: 0;
+}
+#sideLeft{
+    background-color: white;
+    height: 100vh;
+}
+#logo{
+    height: auto;
+}
+#sideLeft>div>div>h2{
+    font-weight: 600;
+}
+#loginButton{
+    width: 100%;
+    background-color: black;
+    color: white;
+    font-weight: 600;
+    transition: 0.3s ease-out;
+}
+#loginButton:hover{
+    opacity: 0.8;
+    letter-spacing: 0.5px;
+}
+#registerLink{
+    color: black !important;
+}
+#notifError{
+    background-color: rgba(0, 0, 0, 0.1);
+    color: black;
+}
+#bgSamping{
+    background-image: url(../media/photo.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+@media only screen and (max-width: 576px) {
+    *[hide-mobile=true]{
+        display: none !important;
+    }
+}
+@media only screen and (min-width: 576px) {
+    *[show-mobile=true]{
+        display: none !important;
+    }
+}
