@@ -1,12 +1,12 @@
----
-title: LAPORAN CHALLENGE KELOMPOK ALGORITMA PEMROGRAMAN TEORI
----
+# CHALLENGE KELOMPOK ALGORITMA PEMROGRAMAN TEORI
 
-# Kelompok 5 :
+## Kelompok 5 :
 
-1.  **Muhammad Ali Pratama Putra (5220411416)**
+1. Muhammad Ali Pratama Putra (5220411416)
 
-2.  Jati Kurniawan (5220411448) 3.Diki Hendrik Setyawan (5220411435)
+2. Jati Kurniawan (5220411448) 
+
+3. Diki Hendrik Setyawan (5220411435)
 
 # Overview
 
@@ -25,25 +25,19 @@ title: LAPORAN CHALLENGE KELOMPOK ALGORITMA PEMROGRAMAN TEORI
 >
 > Berikut adalah use case UML diagram nya:
 
-![](vertopal_5c9352773d99417ba5b573d23439f201/media/image1.jpeg){width="5.936111111111111in"
-height="3.3777777777777778in"}
+![](md_media/image1.jpeg)
 
 > Berikut adalah beberapa flowchart sederhana dari sub program:
 >
 > *(implementasi materi week 2)*
 
-![](vertopal_5c9352773d99417ba5b573d23439f201/media/image2.jpeg){width="0.8270833333333333in"
-height="2.613888888888889in"}
+![](md_media/image2.jpeg)
 
-> ![](vertopal_5c9352773d99417ba5b573d23439f201/media/image5.jpeg){width="1.3770833333333334in"
-> height="3.4375in"}
-> ![](vertopal_5c9352773d99417ba5b573d23439f201/media/image6.jpeg){width="0.8979166666666667in"
-> height="3.435416666666667in"}
-> ![](vertopal_5c9352773d99417ba5b573d23439f201/media/image7.jpeg){width="0.8458333333333333in"
-> height="3.4125in"}
+> ![](md_media/image5.jpeg)
+> ![](md_media/image6.jpeg)
+> ![](md_media/image7.jpeg)
 
-![](vertopal_5c9352773d99417ba5b573d23439f201/media/image8.jpeg){width="0.8576388888888888in"
-height="3.283333333333333in"}
+![](md_media/image8.jpeg)
 
 B.  # Penyusun Aplikasi
 
@@ -69,21 +63,20 @@ B.  # Penyusun Aplikasi
 
 -   Struktur Database *(implementasi materi week 12)*
 
-> ![](vertopal_5c9352773d99417ba5b573d23439f201/media/image10.jpeg){width="5.409027777777778in"
-> height="1.7541666666666667in"}Tabel db_user
+> ![](md_media/image10.jpeg)
+> Tabel db_user
 >
-> ![](vertopal_5c9352773d99417ba5b573d23439f201/media/image11.jpeg){width="5.508333333333334in"
-> height="1.7194444444444446in"}Tabel db_task
+> ![](md_media/image11.jpeg)
+> Tabel db_task
 
 -   Tampilan Database pada phpMyAdmin *(implementasi materi week 12)*
 
 > Tabel db_user
 >
-> ![](vertopal_5c9352773d99417ba5b573d23439f201/media/image12.jpeg){width="5.483333333333333in"
-> height="1.9222222222222223in"}
+> ![](md_media/image12.jpeg)
 >
-> ![](vertopal_5c9352773d99417ba5b573d23439f201/media/image13.jpeg){width="5.733333333333333in"
-> height="5.411111111111111in"}Tabel db_task
+> ![](md_media/image13.jpeg)
+> Tabel db_task
 
 # Output (Keluaran)
 
@@ -91,93 +84,76 @@ B.  # Penyusun Aplikasi
 
     -   Menu awal:
 
-> ![](vertopal_5c9352773d99417ba5b573d23439f201/media/image14.png){width="3.091666666666667in"
-> height="1.2284722222222222in"}
+> ![](md_media/image14.png)
 >
 > User melakukan login terlebih dahulu
 
 -   User dapat mengubah password dengan memilih no 1
 
-> ![](vertopal_5c9352773d99417ba5b573d23439f201/media/image15.png){width="3.3361111111111112in"
-> height="0.9979166666666667in"}
+> ![](md_media/image15.png)
 
 -   Setelah login layar akan menampilkan beberapa menu.
 
-> ![](vertopal_5c9352773d99417ba5b573d23439f201/media/image16.png){width="3.4631944444444445in"
-> height="1.975in"}
+> ![](md_media/image16.png)
 
 -   Jika user memilih no 2 maka tampilan akan seperti ini
 
-> ![](vertopal_5c9352773d99417ba5b573d23439f201/media/image17.jpeg){width="5.108333333333333in"
-> height="1.5354166666666667in"}
+> ![](md_media/image17.jpeg)
 >
 > User dapat menambahkan task seperti diatas.
 
 -   Jika user memilih no 3 maka akan sepeti berikut
 
-> ![](vertopal_5c9352773d99417ba5b573d23439f201/media/image18.png){width="4.30625in"
-> height="1.675in"}
+> ![](md_media/image18.png)
 >
 > User dapat memilih tampilan task seperti berikut:
 
 -   Jika user memeilih no 1 maka:
 
-![](vertopal_5c9352773d99417ba5b573d23439f201/media/image19.png){width="4.2034722222222225in"
-height="1.7659722222222223in"}
+![](md_media/image19.png)
 
 -   Jika user memilih no 2 maka:
 
-![](vertopal_5c9352773d99417ba5b573d23439f201/media/image20.png){width="4.104166666666667in"
-height="1.7027777777777777in"}
+![](md_media/image20.png)
 
 -   Jika user memilih no 3 maka:
 
-![](vertopal_5c9352773d99417ba5b573d23439f201/media/image21.png){width="4.572222222222222in"
-height="2.0694444444444446in"}
+![](md_media/image21.png)
 
 -   User juga dapat mengedit tasknya dengan memilih no 4
 
-![](vertopal_5c9352773d99417ba5b573d23439f201/media/image22.jpeg){width="5.3180555555555555in"
-height="2.7777777777777777in"}
+![](md_media/image22.jpeg)
 
 -   User juga dapat menghapus task dengan memilih no 5
 
-> ![](vertopal_5c9352773d99417ba5b573d23439f201/media/image23.jpeg){width="5.534722222222222in"
-> height="2.415277777777778in"}
+> ![](md_media/image23.jpeg)
 
 -   Keluar dengan memilih no 0
 
-> ![](vertopal_5c9352773d99417ba5b573d23439f201/media/image24.png){width="5.011805555555555in"
-> height="0.6875in"}
+> ![](md_media/image24.png)
 
 2.  ## Output Admin
 
     -   Ini adalah tampilan menu dari admin
 
-> ![](vertopal_5c9352773d99417ba5b573d23439f201/media/image25.png){width="3.83125in"
-> height="1.6680555555555556in"}
+> ![](md_media/image25.png)
 
 -   Admin dapat melihat semua akun dengan memilih no 1
 
-> ![](vertopal_5c9352773d99417ba5b573d23439f201/media/image26.png){width="5.2625in"
-> height="1.5145833333333334in"}
+> ![](md_media/image26.png)
 
 -   Admin juga dapat membuat akun baru dengan memilih no 2
 
-> ![](vertopal_5c9352773d99417ba5b573d23439f201/media/image27.jpeg){width="4.475in"
-> height="2.4916666666666667in"}
+> ![](md_media/image27.jpeg)
 
 -   Admin juga dapat mengubah password dengan memilih no 3
 
-> ![](vertopal_5c9352773d99417ba5b573d23439f201/media/image15.png){width="3.2881944444444446in"
-> height="0.9833333333333333in"}
+> ![](md_media/image15.png)
 
 -   Admin juga dapat menghapus akun dengan memilih no 4
 
-> ![](vertopal_5c9352773d99417ba5b573d23439f201/media/image28.png){width="5.3875in"
-> height="2.0868055555555554in"}
+> ![](md_media/image28.png)
 
 -   Keluar dengan memilih no 0
 
-> ![](vertopal_5c9352773d99417ba5b573d23439f201/media/image29.png){width="5.125694444444444in"
-> height="0.7541666666666667in"}
+> ![](md_media/image29.png)
